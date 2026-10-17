@@ -4,8 +4,8 @@
 struct _capacitor {
 
 	double *time;
-	double *voltage;
-	double *current;
+	double *volt;
+	double *curr;
 	double C;
 
 };
